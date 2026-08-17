@@ -1,0 +1,20 @@
+# Python Environments
+venv/
+yolov5env/
+env/
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Heavy YOLOv5 Files & Datasets (Just in case)
+yolov5/
+apple-banana-orange-*/
+datasets/
+runs/
+*.cache
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
